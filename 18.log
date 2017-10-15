@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <title>
+      Problem loading page
+    </title>
+  </head>
+  <body>
+    <h1>
+      Content Encoding Error
+    </h1>
+    <p>
+      The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.
+    </p>
+  </body>
+</html>

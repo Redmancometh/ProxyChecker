@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>
+      AZ Environment variables 1.04
+    </title>
+    <meta name="keywords" content="proxyjudge, proxy judge, azenv proxy judge, azenv.php"/>
+  </head>
+  <body>
+    <h1>
+      PHP Proxy Judge
+    </h1>
+    <pre>
+      
+HTTP_HOST = minecraftservers.org
+HTTP_CONNECTION = close
+HTTP_PROXY_CONNECTION = Keep-Alive
+HTTP_ACCEPT = text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_USER_AGENT = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36
+HTTP_ACCEPT_ENCODING = gzip, deflate
+HTTP_ACCEPT_LANGUAGE = en-US
+REMOTE_ADDR = 47.219.94.145
+REQUEST_SCHEME = http
+REMOTE_PORT = 57876
+REQUEST_METHOD = GET
+REQUEST_URI = /vote/111329
+REQUEST_TIME_FLOAT = 1508104108.051
+REQUEST_TIME = 1508104108
+
+    </pre>
+  </body>
+</html>
