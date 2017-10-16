@@ -70,7 +70,6 @@ public class Tester
         }
         catch (Exception e)
         {
-            e.printStackTrace();
             System.out.println("Purging bad " + proxy);
             this.getProxy().purgeBadProxy();
         }

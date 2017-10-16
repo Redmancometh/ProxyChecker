@@ -181,7 +181,7 @@
               <button type="submit" class="button vote submit">
                 vote for this server
               </button>
-              <input type="hidden" name="csrf" value="4ee55cf41a1101179946b7cb1f49f3e74fa4dc46"/>
+              <input type="hidden" name="csrf" value="a3f5e3dbf426ee15acaa143f371971c50d95759c"/>
             </form>
             <a href="/server/111329" class="button blue return">
               return to server page
